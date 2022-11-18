@@ -29,9 +29,9 @@ Steps:
 
 
 [My version of the code found Below](https://github.com/BenjaminBurton/MicrosoftAzureResume)
-
-
 ```js
 https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 ```
+
+# Create Github Repo An connect to laptop (git init)
