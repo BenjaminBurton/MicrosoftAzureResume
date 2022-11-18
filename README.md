@@ -19,12 +19,12 @@ Steps:
 - [x] JavaScript: Write JavaScript script to count visitors to site
 - [x] Database: Retrieve and update count with Azure CosmosDB (serverless)
 - [x] API: communicates with database | Azure Functions w/ HTTP trigger 
-- [x] Python: 
-- [x] Test: 
-- [x] IAC: 
-- [x] Source Control: 
-- [x] CI/CD (Backend): 
-- [x] CI/CD (Frontend): 
+- [x] Python: Explore Python with Azure Functions
+- [x] Test: Write test for Python Code 
+- [x] IAC: Define Infrestructure as Code in Azure Resource Manager ARM (Consumption Plan)
+- [x] Source Control: Use GitHub Actions Workflows
+- [x] CI/CD (Backend): GitHub Actions Workflows Backend
+- [x] CI/CD (Frontend): GitHub Actions Workflows Frontend
 - [x] Blog Post: Hashnode
 
 
