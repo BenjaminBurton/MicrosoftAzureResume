@@ -28,7 +28,7 @@ Steps:
 - [x] Blog Post: Hashnode
 
 
-![My version of the code found HERE](https://github.com/BenjaminBurton/MicrosoftAzureResume)
+[My version of the code found HERE](https://github.com/BenjaminBurton/MicrosoftAzureResume)
 
 
 ```js
