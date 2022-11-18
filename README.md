@@ -10,7 +10,7 @@ My Personal Azure Resume using resources found via tutorials, blogs and the Clou
 
 ## Intro for project
 
-Steps: 
+Steps Involved: 
 - [x] HTML: Write in HTML 
 - [x] CSS: Style with CSS
 - [x] Static Website: Deploy online using Azure Storage
@@ -45,4 +45,38 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 ## Azure Storage Account 
 - Azure CLI to Create Storage Account
 
-## 
+## HTTPS & CDN
+- HTTPS should have a trigger and connected to a CDN endpoint
+
+## DNS 
+- Custom Domain name should be connected to CDN and returnng site
+
+## JavaScript
+- Write a script that counts the number of visits to the site
+
+## Database
+-
+
+## API
+-
+
+## Python
+- 
+
+## Test 
+- 
+
+## Infrastructure As Code (IaC)
+- 
+
+## Source Control
+- 
+
+## CI/CD Backend
+- 
+
+## CI/CD Frontend
+- 
+
+## Blog Post
+- Write about experience to Blog site HashNode
