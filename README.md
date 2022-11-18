@@ -2,7 +2,7 @@
 
 ![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue)
 
-:wave: :wave: :wave:
+:wave: :wave: :wave: :wave: :wave:
 
 My Personal Azure Resume using resources found via tutorials, blogs and the Cloud Resume Challenge GuideBook
 
