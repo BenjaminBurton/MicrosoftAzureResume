@@ -52,7 +52,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Custom Domain name should be connected to CDN and returnng site
 
 ## JavaScript
-- Write a script that counts the number of visits to the site
+- [x] Write a script that counts the number of visits to the site
 
 ## Database
 - The visitor counter will need to retrieve and update its count in a database somewhere. I suggest you use the Table API of Azure’s CosmosDB for this. (Use serverless capacity mode for the database and you’ll pay essentially nothing, unless you store or retrieve much more data than this project requires.)
