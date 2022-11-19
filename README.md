@@ -4,7 +4,7 @@
 
 :wave: :wave: :wave: :wave: :wave:
 
-[Resume Coming Soon](lavellburton.net) :star:
+[Resume Coming Soon](www.lavellburton.net) :star:
 
 My Personal Azure Resume using resources found via tutorials, blogs and the Cloud Resume Challenge GuideBook
 
