@@ -52,7 +52,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Custom Domain name should be connected to CDN and returnng site
 
 ## JavaScript
-- [x] Write a script that counts the number of visits to the site [script documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) also there is a really good resource by Gwyn from [A Cloud Guru](https://youtu.be/ieYrBWmkfno)
+- [x] Write a script that counts the number of visits to the site [script documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) also there is a really good resource by [Gwyn from A Cloud Guru](https://youtu.be/ieYrBWmkfno)
 
 ## Database
 - [x] Created a database with cosmosDB. After initial creation went to data explorer did a quick launch and added the database name and container.
