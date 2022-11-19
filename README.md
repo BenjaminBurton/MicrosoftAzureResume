@@ -52,9 +52,9 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Custom Domain name should be connected to CDN and returnng site
 
 ## JavaScript
-- [x] Write a script that counts the number of visits to the site
+- [x] Write a script that counts the number of visits to the site 
 ```js
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+[script documentation]('https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch')
 ```
 
 ## Database
