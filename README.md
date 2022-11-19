@@ -37,7 +37,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Create Azure Account
 
 ## GitHub Repo
-- [x]Create Github Repo An connect to laptop (git init)
+- [x] Create Github Repo An connect to laptop (git init)
 
 ## HTML & CSS
 - [x] Code Site In HTML & CSS And Deploy to Azure
