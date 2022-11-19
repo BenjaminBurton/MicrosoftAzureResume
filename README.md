@@ -34,22 +34,22 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 ```
 ## Azure Account
-- Create Azure Account
+- [x] Create Azure Account
 
 ## GitHub Repo
-- Create Github Repo An connect to laptop (git init)
+- [x]Create Github Repo An connect to laptop (git init)
 
 ## HTML & CSS
-- Code Site In HTML & CSS And Deploy to Azure
+- [x]Code Site In HTML & CSS And Deploy to Azure
 
 ## Azure Storage Account 
-- Azure CLI to Create Storage Account
+- [x]Azure CLI to Create Storage Account
 
 ## HTTPS & CDN
-- HTTPS should have a trigger and connected to a CDN endpoint
+- [x]HTTPS should have a trigger and connected to a CDN endpoint
 
 ## DNS 
-- Custom Domain name should be connected to CDN and returnng site
+- [x]Custom Domain name should be connected to CDN and returnng site
 
 ## JavaScript
 - Write a script that counts the number of visits to the site
