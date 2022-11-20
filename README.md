@@ -44,7 +44,8 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Deploy to Azure
 
 ## Azure Storage Account 
-- [x] Used Azure command line interface (CLI) to Create Storage Account
+- [x] Used Azure command line interface (CLI) 
+- [x] Storage account created successfully
 
 ## HTTPS & CDN
 - [x] Created CDN endoint
