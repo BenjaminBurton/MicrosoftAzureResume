@@ -37,7 +37,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Create Azure Account
 
 ## GitHub Repo
-- [✅] Create Github Repo An connect to laptop (git init)
+- ✅ Create Github Repo An connect to laptop (git init)
 
 ## HTML & CSS
 - [x] Structured site with files and folders
