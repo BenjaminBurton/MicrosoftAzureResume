@@ -34,35 +34,35 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 ```
 ## Azure Account
-✅ Create Azure Account
+- ✅ Create Azure Account
 
 ## GitHub Repo
-✅ Create Github Repo An connect to laptop (git init)
+- ✅ Create Github Repo An connect to laptop (git init)
 
 ## HTML & CSS
-✅ Structured site with files and folders
-✅ Coded Site In HTML & CSS 
+- ✅ Structured site with files and folders
+- ✅ Coded Site In HTML & CSS 
 
 ## Azure Storage Account 
-✅ Used Azure command line interface (CLI) 
-✅ Storage account created successfully
-✅ Deployed code to Azure static website
+- ✅ Used Azure command line interface (CLI) 
+- ✅ Storage account created successfully
+- ✅ Deployed code to Azure static website
 
 ## HTTPS & CDN
-✅ Created CDN endoint
-✅ Turned on HTTPS for CDN endpoint
+- ✅ Created CDN endoint
+- ✅ Turned on HTTPS for CDN endpoint
 
 ## DNS 
-✅ Connected custom Domain name to CDN endpoint 
-✅ Custom domain showing site successfully
+- ✅ Connected custom Domain name to CDN endpoint 
+- ✅ Custom domain showing site successfully
 
 ## JavaScript
-✅ Write a script that counts the number of visits to the site [script documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) also there is a really good resource by [Gwyn from A Cloud Guru](https://youtu.be/ieYrBWmkfno)
-✅ Created .env file for calling variable 
+- ✅ Write a script that counts the number of visits to the site [script documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) also there is a really good resource by [Gwyn from A Cloud Guru](https://youtu.be/ieYrBWmkfno)
+- ✅ Created .env file for calling variable 
 ## Database
-✅ Created a database with cosmosDB.  
-✅ Did a quick launch and added the database name and container.
-✅ Items in database setup successful
+- ✅ Created a database with cosmosDB.  
+- ✅ Did a quick launch and added the database name and container.
+- ✅ Items in database setup successful
 
 ## API
 - Do not communicate directly with CosmosDB from your Javascript code. Instead, you will need to create an API that accepts requests from your web app and communicates with the database. I suggest using Azure Functions with an HTTP trigger for this. They will be free or close to free for what we are doing.
