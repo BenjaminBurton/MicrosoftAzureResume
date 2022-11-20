@@ -40,12 +40,13 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Create Github Repo An connect to laptop (git init)
 
 ## HTML & CSS
-- [x] Code Site In HTML & CSS 
-- [x] Deploy to Azure
+- [x] Structured site with files and folders
+- [x] Coded Site In HTML & CSS 
 
 ## Azure Storage Account 
 - [x] Used Azure command line interface (CLI) 
 - [x] Storage account created successfully
+- [x] Deployed code to Azure static website
 
 ## HTTPS & CDN
 - [x] Created CDN endoint
