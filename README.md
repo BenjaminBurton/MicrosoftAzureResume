@@ -44,13 +44,15 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - [x] Deploy to Azure
 
 ## Azure Storage Account 
-- [x] Azure CLI to Create Storage Account
+- [x] Used Azure command line interface (CLI) to Create Storage Account
 
 ## HTTPS & CDN
-- [x] HTTPS should have a trigger and connected to a CDN endpoint
+- [x] Created CDN endoint
+- [x] Turned on HTTPS for CDN endpoint
 
 ## DNS 
-- [x] Custom Domain name should be connected to CDN and returnng site
+- [x] Connected custom Domain name to CDN endpoint 
+- [x] Custom domain showing site successfully
 
 ## JavaScript
 - [x] Write a script that counts the number of visits to the site [script documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) also there is a really good resource by [Gwyn from A Cloud Guru](https://youtu.be/ieYrBWmkfno)
