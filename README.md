@@ -63,6 +63,8 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - ✅ Created a database with cosmosDB.  
 - ✅ Did a quick launch and added the database name and container.
 - ✅ Items in database setup successful
+- ✅ If you have an issue with being able to develop in the portal go to your function and select deployment center and disable all neccesary connections, also check your GitHub and disconnect your apps if you want to develop in portal
+- ✅ Using VsCode to install dependencies an scripts
 
 ## API
 - Do not communicate directly with CosmosDB from your Javascript code. Instead, you will need to create an API that accepts requests from your web app and communicates with the database. I suggest using Azure Functions with an HTTP trigger for this. They will be free or close to free for what we are doing.
