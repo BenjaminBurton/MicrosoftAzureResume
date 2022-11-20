@@ -67,7 +67,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - ✅ Using VsCode to install dependencies an scripts
 
 ## API
-- Do not communicate directly with CosmosDB from your Javascript code. Instead, you will need to create an API that accepts requests from your web app and communicates with the database. I suggest using Azure Functions with an HTTP trigger for this. They will be free or close to free for what we are doing.
+- ✅ HTTP trigger created in azure function 
 
 ## Python
 - You will need to write a bit of code in the Azure Function; you could use more Javascript, but it would be better for our purposes to explore Python – a common language used in back-end programs and scripts – and its Azure SDK. Here is a good, free Python tutorial.
