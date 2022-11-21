@@ -1,6 +1,6 @@
 # Microsoft Azure Resume
 
-![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue)
+![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue) [![Build Status](#)] [![DepGraph](https://img.shields.io/badge/dependency-graph-blue.svg)](#)
 
 :wave: :wave: :wave: :wave: :wave:
 
