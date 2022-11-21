@@ -1,6 +1,6 @@
 # Microsoft Azure Resume
 
-![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue) [![Build Status](#)] [![DepGraph](https://img.shields.io/badge/dependency-graph-blue.svg)](#)
+![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue) [![Build Status](https://www.lavellburton.net/)] [![DepGraph](https://img.shields.io/badge/dependency-graph-blue.svg)](https://www.lavellburton.net/)
 
 :wave: :wave: :wave: :wave: :wave:
 
