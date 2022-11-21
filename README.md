@@ -1,6 +1,6 @@
 # Microsoft Azure Resume
 
-![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue) ![Azure Piplines](https://img.shields.io/badge/Azure%20Pipelines-UnderConstruction-yellow) [![Build Status](https://dev.azure.com/azure-sdk/public/_apis/build/status/python/python%20-%20core%20-%20ci?branchName=main)](https://dev.azure.com/azure-sdk/public/_build/latest?definitionId=458&branchName=main)
+![Resume](https://img.shields.io/badge/Resume-UnderConstruction-red) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-blue) ![Azure Piplines](https://img.shields.io/badge/Azure%20Pipelines-UnderConstruction-yellow) [![Build Status](https://dev.azure.com/)](https://dev.azure.com/)
 
 :wave: :wave: :wave: :wave: :wave:
 
