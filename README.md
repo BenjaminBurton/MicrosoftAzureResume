@@ -90,3 +90,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 ## Blog Post
 - Write about experience to Blog site HashNode
+
+## Issues Encountered
+- .NET Core claims of not having SDK installed 
+ - Actively Finding resolution to Issue
