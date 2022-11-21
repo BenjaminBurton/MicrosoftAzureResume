@@ -1,6 +1,6 @@
 # Microsoft Azure Resume
 
-![Resume](https://img.shields.io/badge/Resume-UnderConstruction-yellow) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-yellowgreen) ![Azure Piplines](https://img.shields.io/badge/Azure%20Pipelines-UnderConstruction-yellow)
+![Resume](https://img.shields.io/badge/Resume-UnderConstruction-orange) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-brightgreen) ![Azure Piplines](https://img.shields.io/badge/Azure%20Pipelines-UnderConstruction-orange)
 
 :wave: :wave: :wave: :wave: :wave:
 
