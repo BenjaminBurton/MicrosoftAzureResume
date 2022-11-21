@@ -68,6 +68,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 ## API
 - ✅ HTTP trigger created in azure function 
+- ✅ API and Database tested and connected properly
 
 ## Python
 - You will need to write a bit of code in the Azure Function; you could use more Javascript, but it would be better for our purposes to explore Python – a common language used in back-end programs and scripts – and its Azure SDK. Here is a good, free Python tutorial.
