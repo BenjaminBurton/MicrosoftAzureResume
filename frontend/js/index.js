@@ -7,18 +7,18 @@ window.addEventListener("DOMContentLoaded", (e) => {
 const functionApi = "";
 
 const getVisitorCount = () => {
-  let counting = 10;
+  let count = 10;
   fetch(functionApi)
     .then((response) => {
       return response.json();
     })
     .then((res) => {
       console.log("called website");
-      counting = response.counting;
-      document.getElementById("counting").innerText = counting;
+      count = response.count;
+      document.getElementById("count").innerText = count;
     })
     .catch(function (err) {
       console.log(err);
     });
-  return counting;
+  return count;
 };
