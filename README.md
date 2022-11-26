@@ -71,7 +71,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - ✅ To access the Tables API Inside of CosmosDB selected create DB and select Table API
 - ✅ added reference to access the Tables storage service through the code " using Microsoft.Azure.Cosmos.Table ";
 - ✅ A connection string for AuthN can be retrieved from the portal.
-- ✅ To stoe and retrieve the tables through a key we need URL for the Value of view count.
+- ✅ To store and retrieve the tables through a key we need URL for the Value of view count.
 - ✅ The code connects and accesses thr Tables through the API package created and installed with CosmosDB
 
 ## Python
