@@ -67,8 +67,12 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 - ✅ Using VsCode to install dependencies an scripts
 
 ## API
-- ✅ HTTP trigger created in azure function 
-- ✅ API and Database tested and connected properly
+- ✅ HTTP trigger created in azure function via VSCode w/ .Net
+- ✅ To access the Tables API Inside of CosmosDB selected create DB and select Table API
+- ✅ added reference to access the Tables storage service through the code " using Microsoft.Azure.Cosmos.Table ";
+- ✅ A connection string for AuthN can be retrieved from the portal.
+- ✅ To stoe and retrieve the tables through a key we need URL for the Value of view count.
+- ✅ The code connects and accesses thr Tables through the API package created and installed with CosmosDB
 
 ## Python
 - You will need to write a bit of code in the Azure Function; you could use more Javascript, but it would be better for our purposes to explore Python – a common language used in back-end programs and scripts – and its Azure SDK. Here is a good, free Python tutorial.
