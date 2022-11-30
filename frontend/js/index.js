@@ -4,11 +4,11 @@ window.addEventListener("DOMContentLoaded", (e) => {
   getVisitorCount();
 });
 
-const functionApi = "";
+const apiUrl = "";
 
 const getVisitorCount = () => {
   let count = 10;
-  fetch(functionApi)
+  fetch(apiUrl)
     .then((response) => {
       return response.json();
     })
