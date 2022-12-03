@@ -6,7 +6,7 @@
 
 [Resume Coming Soon](https://www.lavellburton.net/) :star:
 
-My Personal Azure Resume using resources found via tutorials, blogs and the Cloud Resume Challenge GuideBook
+My Personal Resume Built on Azure from scratch for the Cloud Resume Challenge by @Forrest Brazeal
 
 ## Intro for project
 
