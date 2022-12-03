@@ -62,5 +62,4 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume
 
 
 ## Issues Encountered
-- ❌ .NET Core claims of not having SDK installed 
-- ❌ Actively Finding resolution to Issue
+- ❌ Actively Finding resolutions to Issues
