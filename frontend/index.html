@@ -24,6 +24,13 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
+    <script src="https://upkg.com/axios/dist/axios.min.js"></script>
+     <script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+<script async src="https://api.countapi.xyz/hit/lavellburton.net/visits?callback=cb"></script>
 
 </head>
 
@@ -616,7 +623,7 @@
                 <div class="column ss-copyright">
                     <span>© Copyright Luther 2021</span> 
                     <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
-                  <span><p>this page has been viewed <a id="count"></a> times :) </p></span>
+                  <span><p>this page has been viewed <a id="visits">...</a> times.</p></span>
                 </div>
 
                 <div class="ss-go-top">
@@ -636,6 +643,6 @@
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
     <script src="js/index.js"></script>
-
+    <script src="./frontend/js/index.js"></script>
 </body>
 </html>
