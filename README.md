@@ -4,6 +4,8 @@
 
 :wave: :wave: :wave: :wave: :wave:
 
+#CloudGuruChallenge
+
 [Resume Coming Soon](https://www.lavellburton.net/) :star: :star: :star:
 
 My Personal Resume Built on Azure from scratch for the (Frontend) as part of the Cloud Resume Challenge by @forrest Brazeal
