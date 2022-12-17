@@ -14,15 +14,15 @@ My Personal Resume Built on Azure from scratch for the (Frontend) as part of the
 
 Steps Involved:
 
-- [x] HTML: Write in HTML
-- [x] CSS: Style with CSS
-- [x] Static Website: Deploy online using Azure Storage
-- [x] HTTPS: URL should be HTTPS Azure CDN will help with this)
-- [x] DNS: Point custom DNS Domain to CDN endpoint
-- [x] JavaScript: Write JavaScript script to count visitors to site
-- [x] Database: Retrieve and update count with Azure CosmosDB (serverless)
-- [x] API: communicates with database | Azure Functions w/ HTTP trigger
-- [x] Python: Explore Python with Azure Functions
+- ✅ HTML: Write in HTML
+- ✅ CSS: Style with CSS
+- ✅ Static Website: Deploy online using Azure Storage
+- ✅ HTTPS: URL should be HTTPS Azure CDN will help with this)
+- ✅ DNS: Point custom DNS Domain to CDN endpoint
+- ✅ JavaScript: Write JavaScript script to count visitors to site
+- ✅ Database: Retrieve and update count with Azure CosmosDB (serverless)
+- ✅ API: communicates with database | Azure Functions w/ HTTP trigger
+- ✅ Python: Explore Python with Azure Functions
 - [x] Test: Write test for Python Code
 - [x] IAC: Define Infrestructure as Code in Azure Resource Manager ARM (Consumption Plan)
 - [x] Source Control: Use GitHub Actions Workflows
