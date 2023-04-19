@@ -29,7 +29,8 @@ const getVisitorCount = () => {
   return count;
 };
 
-// working on json async 
+// showing demo to classmate
+// working on json async
 
 // module.exports = async function (context, req) {
 //   context.res.json({
